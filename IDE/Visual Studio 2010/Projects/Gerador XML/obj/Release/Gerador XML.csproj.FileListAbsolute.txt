@@ -1,0 +1,12 @@
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.exe.config
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.exe
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.pdb
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.exe
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.pdb
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.csprojResolveAssemblyReference.cache
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.exe.config
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.exe
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\bin\Release\Gerador XML.pdb
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.csprojResolveAssemblyReference.cache
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.exe
+C:\Users\Eric Santos\Desktop\Source Nxi\10-09\FinalSource\IDE\Visual Studio 2010\Projects\Gerador XML\obj\Release\Gerador XML.pdb

@@ -1,0 +1,9 @@
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\bin\Release\Fixer Nix.exe.config
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\bin\Release\Fixer Nix.exe
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\bin\Release\Fixer Nix.pdb
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer Nix.csprojResolveAssemblyReference.cache
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer_Nix.Form1.resources
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer_Nix.Properties.Resources.resources
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer Nix.csproj.GenerateResource.Cache
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer Nix.exe
+C:\Users\Erick Mota\Desktop\WYD\FinalSource\Fixer Nix\Fixer Nix\obj\Release\Fixer Nix.pdb

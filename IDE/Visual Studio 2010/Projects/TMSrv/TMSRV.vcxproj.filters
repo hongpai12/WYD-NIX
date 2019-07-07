@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DLLMain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\AddExp.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ExitParty.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetCreateMob.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetCreateMobTrade.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendAffect.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendEtc.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendScore.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendTrade.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GlobalData.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PacketControl.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PacketSecurity.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendMessage.cpp">
+      <Filter>Source\Service\PacketControl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ReceiveMessage.cpp">
+      <Filter>Source\Service\PacketControl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\AddPoint.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetHpMp.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ControlSell.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\pCommands.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Limite de Players.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GoWorld.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ChangeSkillBar.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DoLogin.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Numerica.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\MoveItem.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\CorrectRefs.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ClickNpc.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\LoadBuffs.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SaveUser.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DeleteItem.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\UseItem.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BuyItem.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Janelas.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\NewTrade.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\pControl.cpp">
+      <Filter>Source\Service\PacketControl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PartyFix.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\UseMountFeed.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetParryRate.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GenerateSummon.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetCurScore.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetSkillDamage.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DeleteChar.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\CheckGetLevel.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetBonusScorePoint.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetBonusSkillPoint.cpp">
+      <Filter>Source\Patch\BASE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\FixTrainingCamp.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\RecruitPerson.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ReceiveBets.cpp">
+      <Filter>Source\Patch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PE_Patch.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PE_DefConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\mainThread.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\MobKilled.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\TeleportPosition.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GoWorldPosition.cpp">
+      <Filter>Source\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Funcoes.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\DLLMain.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\AddExp.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\ExitParty.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GetCreateMob.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GetCreateMobTrade.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\MobKilled.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendAffect.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendEtc.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendScore.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendTrade.h">
+      <Filter>Header\Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\AddMessage.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GlobalData.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PacketControl.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PE_DefConst.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PE_Patch.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\ReadMessage.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\Common\st_Base.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\TMSrv\Funcoes.h">
+      <Filter>Header\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Source\Common\ItemEffect.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\ConstDefines.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\Functions.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{c2113915-2d36-4ca5-b0d7-e32f37b51df1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{cdb9ec9e-0f0b-4497-bc19-b5b12c0922d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Patch">
+      <UniqueIdentifier>{136acedb-3c95-4686-91e8-f46877ba7d21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Service">
+      <UniqueIdentifier>{6d01c423-dcde-413d-bae2-27ee39ecd710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\Patch">
+      <UniqueIdentifier>{771c568f-b175-4581-aeb3-609f105d2c6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\Service">
+      <UniqueIdentifier>{5e3537cc-929c-4bbf-92d5-211ac3759ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{808e4822-a2df-4f60-99bf-9a82a74b579c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Service\PacketControl">
+      <UniqueIdentifier>{b7893a49-5a4d-40c3-9b74-888cab07ca72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Patch\BASE">
+      <UniqueIdentifier>{baf4ea7a-e579-4143-bfbb-f5ace7abbae2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

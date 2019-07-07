@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Source\TMSrv\AddExp.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\AddPoint.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetBonusScorePoint.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetBonusSkillPoint.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetCurScore.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetHpMp.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BASE_GetSkillDamage.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\BuyItem.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ChangeSkillBar.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\CheckGetLevel.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ClickNpc.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ControlSell.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\CorrectRefs.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DeleteChar.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DeleteItem.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DoLogin.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\FixTrainingCamp.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Funcoes.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GenerateSummon.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetParryRate.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GoWorld.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GoWorldPosition.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Janelas.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Limite de Players.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\LoadBuffs.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\mainThread.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\MoveItem.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\NewTrade.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\Numerica.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PartyFix.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\pCommands.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\pControl.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ReceiveBets.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\RecruitPerson.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SaveUser.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendMessage.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\DLLMain.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ExitParty.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetCreateMob.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GetCreateMobTrade.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\GlobalData.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\MobKilled.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PacketSecurity.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PE_Patch.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PacketControl.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\ReceiveMessage.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendAffect.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendEtc.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendScore.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\SendTrade.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\PE_DefConst.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\TeleportPosition.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\UseItem.cpp" />
+    <ClCompile Include="..\..\..\..\Source\TMSrv\UseMountFeed.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\ConstDefines.h" />
+    <ClInclude Include="..\..\..\..\Source\Common\ItemEffect.h" />
+    <ClInclude Include="..\..\..\..\Source\Common\st_Base.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\AddExp.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\AddMessage.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\Funcoes.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\Functions.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GlobalData.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\MobKilled.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PE_DefConst.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\DLLMain.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\ExitParty.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GetCreateMob.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\GetCreateMobTrade.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PE_Patch.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\PacketControl.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\ReadMessage.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendAffect.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendEtc.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendScore.h" />
+    <ClInclude Include="..\..\..\..\Source\TMSrv\SendTrade.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A459CDD9-DFE3-44A7-B6D8-FA25F3C2BA25}</ProjectGuid>
+    <RootNamespace>TMSrv_PacketProtocolV754</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\..\..\..\..\Servidor\TMSRV\run\Plugin</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.</OutDir>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../../../Source/Common/</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PreprocessorDefinitions>DEBUG_MODE;_WINDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>RELEASE_MODE;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <AdditionalIncludeDirectories>../../Common/</AdditionalIncludeDirectories>
+      <EnablePREfast>false</EnablePREfast>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Program Files\MySQL\MySQL Connector C++ 1.1.6\lib\opt;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

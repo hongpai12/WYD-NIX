@@ -1,0 +1,32 @@
+/2ef3ef3 = coloca acceslevel como admin e nível como 1011 (uso único por acc)
+/349r3hef9 = libera a utilização dos comandos admin (uso toda vez q logar)
+/nix 
++reloadfield = teleporta para 4000/4000 e depois volta para as coordenadas originais (uso quase que só do ale)
++reload npc trocas = rele os itens para os npcs de troca
++reload quests bosses = rele as informações relacionadas aos bosses das quests
++reload tab list = rele a lista de tab dos npcs
++reload bonus quests = rele os itens ganhos ao entrar em uma quest
++show imposto = mostra quanto de imposto já foi arrecadado nesta cidade
++infos = mostra a quanto tempo server está on/quantos jogadores conectados
++goto xxx yyy = teleporta para a coordenada digitada
++dc xxxx = disconecta o jogador mencionado
++set imposto = seta o imposto da cidade como 100.000.000.000
++manutencao = coloca o servidor em estado de manutenção e da dc em todos os jogadores
++liberaacesso = remove do estado de manutenção
++event item xxx = coloca o id digitado como o premio do evento de drop
++event rate xx = coloca a porcentagem de chance de drop do evento
++event quanty xxx = coloca esta como a quantidade de itens a dropar pelo evento
++event on = ativa o evento, só usar caso já tenha usado os cmds acima
++event off = desativa o evento
++item xx xx xx x xx x xx = cria um item com as características digitadas
++set name xxxxx = muda o nick para o digitado
++gerar <valor> <serial> = gera um serial com o valor digitado
++set level xxx = seta o nível como o selecionado
++set str xxx = ""
++set dex xxx = ""
++set con xxx = ""
++set int xxx = ""
++set learn -1 = entrega todas as skills ao personagem
++set learn 0 = zera as skills do personagem
+
++check skill xxx = verifica se existe algum buff com o dito index

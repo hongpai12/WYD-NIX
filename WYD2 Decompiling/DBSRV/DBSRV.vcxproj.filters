@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Basedef.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CFileDB.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CPSock.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CUser.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Server.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawInfo.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Basedef.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CFileDB.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CPSock.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CUser.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Server.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawInfo.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{d30de2cb-a344-461c-a621-321c84a4ecbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{c7e34943-8372-4da4-88f0-32699cd04700}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
